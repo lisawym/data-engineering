@@ -1,7 +1,7 @@
 [![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml)
-## Template for Python projects 
+## Template for Python Projects 
 
-###Goal of the template 
+### Goal of the template 
 Prepare a Python template for the future use of the data engineering course, or other Python projects.
 
 
